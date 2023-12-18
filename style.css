@@ -618,7 +618,7 @@ section h2 {
           font-weight: 400;
           background: var(--border-color-hover);
           color: var(--border-color);
-          padding: 0.2em 1em;
+          padding: 0.22em 1.2em;
           position: relative;
           z-index: 1;
         line-height: 1.17648;
