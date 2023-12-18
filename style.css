@@ -611,9 +611,9 @@ section h2 {
 
 .button {
         --border-color: #0077ff;
-        --border-color-hover: #f8d3cb;
+        --border-color-hover: #d7f0fe;
         --border-color-active: #00a953;
-          font-size: 12px;
+          font-size: 11px;
           cursor: pointer;
           font-weight: 400;
           background: var(--border-color-hover);
