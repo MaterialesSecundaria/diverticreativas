@@ -610,15 +610,15 @@ section h2 {
 /* Botones */
 
 .button {
-        --border-color: #c80045;
+        --border-color: #0077ff;
         --border-color-hover: #f8d3cb;
         --border-color-active: #00a953;
-          font-size: 14px;
+          font-size: 12px;
           cursor: pointer;
           font-weight: 400;
           background: var(--border-color-hover);
           color: var(--border-color);
-          padding: 0.25em 1.2em;
+          padding: 0.2em 1em;
           position: relative;
           z-index: 1;
         line-height: 1.17648;
