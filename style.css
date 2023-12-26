@@ -619,7 +619,7 @@ section h2 {
           font-weight: 400;
           background: var(--border-color-hover);
           color: var(--border-color);
-          padding: 0.22em 1.2em;
+          padding: 0.22em 4em;
           position: relative;
           z-index: 1;
         line-height: 1.17648;
@@ -627,6 +627,7 @@ section h2 {
         font-family: "SF Pro Text","SF Pro;
         border-radius: 1px;
         border: 1px solid var(--border-color);
+        border-radius:10px;
         }
     .button + .button {
       margin-left: 1em;
@@ -644,6 +645,7 @@ section h2 {
       transition: -webkit-transform 200ms ease-in;
       transition: transform 200ms ease-in;
       transition: transform 200ms ease-in, -webkit-transform 200ms ease-in;
+      border-radius:10px;
     }
     .quote-button::after {
       -webkit-transform: scaleX(0);
